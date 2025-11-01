@@ -23,9 +23,6 @@ Perfect for system administrators, DevOps engineers, or students learning Linux 
 
 🚀 Future Improvements
 
-📝 License
-
-👤 Author
 
 ✨ Features
 ✅ User Management
