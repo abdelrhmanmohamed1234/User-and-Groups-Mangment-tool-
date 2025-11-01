@@ -1,0 +1,4 @@
+before using this project in your pc please ensure to create modules1 and modules2 directories under /root user
+and then put the group scripts under modules1 
+and put the user scripts under modules2 directory 
+and ensure the files in the same pathes that exist in /root/user_utility.sh file 
